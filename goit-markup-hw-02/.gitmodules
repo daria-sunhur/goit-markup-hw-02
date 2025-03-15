@@ -1,7 +1,7 @@
 [submodule "goit-markup-hw-01"]
-   path = goit-markup-hw-01
-   url = https://github.com/daria-sunhur/goit-markup-hw-01.git
+    path = goit-markup-hw-01
+    url = https://github.com/daria-sunhur/goit-markup-hw-01.git
+
 [submodule "goit-markup-hw-02"]
-   path = goit-markup-hw-02
-   url = https://github.com/daria-sunhur/goit-markup-hw-02.git
-   
+    path = goit-markup-hw-02
+    url = https://github.com/daria-sunhur/goit-markup-hw-02.git
